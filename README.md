@@ -181,3 +181,11 @@ merry.logger.addHandler(logging.StreamHandler(sys.stderr))
 
 The log level and format can be adjusted as well. See the documentation on the
 logging module for more information on how to do this.
+
+---
+
+# Slide Deck
+https://speakerdeck.com/miguelgrinberg/error-handling-in-the-real-world
+
+# Youtbe Guide
+https://www.youtube.com/watch?v=8kTlzR4HhWo&ab_channel=MiguelGrinberg
